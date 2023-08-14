@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HANGYO' A PLEADING FOR A FRAGMENTED NATION
+title: HANGYO - A PLEADING FOR A FRAGMENTED NATION
 subtitle: A Commentary on House Bill No. 4727, Reinstating Death Penalty on Drug-Related Crimes
 cover-img: 
 thumbnail-img: /assets/img/war_on_drugs.jpg
