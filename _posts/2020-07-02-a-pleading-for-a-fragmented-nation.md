@@ -6,7 +6,7 @@ cover-img:
 thumbnail-img: /assets/img/war_on_drugs.jpg
 gh-repo: 
 gh-badge: [star, fork, follow]
-tags: [network analysis, public procurement, corruption networks, procurement data]
+tags: [Philippines, war on drugs, Duterte]
 comments: true
 ---
 
