@@ -19,7 +19,7 @@ Photo by Raffy Lerma, Philippine Daily Inquirer
 
 (Love is injustice, but justice doesn’t suffice.)- Albert Camus
 
-INTRODUCTION
+## INTRODUCTION
 
 The rise of the strongmen in the international political arena came along with the wave of terror in the Philippines wherein the ebb and flow in the daily life of a Filipino consists of the dreadfully gripping atmosphere of fear due to the war on drugs campaigned by President Rodrigo Duterte which culminated to various condemnations locally by human rights organizations such as the Commission of Human Rights and international institutions such as the United Nations, among others.
 
@@ -37,7 +37,7 @@ Stinging criticism still continues to hound on the matter of police abuse in the
 
 In order to ramp up the ante in the fight against criminality, the popular administration of Duterte is lobbying to the Congress to pass a law reinstating death penalty in the Philippines particularly on heinous crimes and drug-related offenses in order to fulfill the purpose of curbing criminality that is plaguing the country with the end purpose of fulfilling justice. As of writing, the deliberations in the House of Representatives has been final in the third and final reading wherein it was largely approved by the majority which states that House Bill No. 4727 reinstates death penalty only to drug-related offenses.
 
-ABOUT THE PAPER
+## ABOUT THE PAPER
 
 The paper, entitled Hangyo, is sourced from the portmanteau word “Tokhang”, a name synonymous with terror and fear struck by the State’s own law enforcement agency due to its noted police brutality and blatant violation of human rights in its war against drugs. Project Tokhang sources it roots by combining the words “katok” (to knock) which is the known protocol for police investigations and operations in neighborhoods and communities mired with drug felons, and “hangyo” (to plead/pray) which is the common occurrence of victims of these investigation which normally seeks to spare their lives and freedom before the iron hand of the law.
 
@@ -45,7 +45,7 @@ The paper, entitled Hangyo, is sourced from the portmanteau word “Tokhang”, 
 
 Just like any other prayer, this paper would only be a futile task if it does not resolve or produce constructive suggestions vis-à-vis with the problems presented wherein it interposes that if the bill should become a law be declared unconstitutional before the Supreme Court or by complying first with the duly established protocols on international obligations ratified by the State under the International Covenant on Civil and Political Rights, either by undergoing the tedious process of withdrawing from the said treaty or instead by complying with it. Furthermore, it seeks to stress the advocacy of undergoing a massive reform in the criminal justice system by providing competent public defenders that will treat felonies with not only justice but also with compassion that will ultimately benefit the society, by synergizing the mandates and views of the judicial, legislative, and executive branches of government towards restorative and social justice. Last but not the least, the paper calls on the hegemons of the Philippine society to influence and be a change in affecting unifying the various mindsets of the people so as not to cause further strife and polarization among varying cultures and economic class regarding their view towards death penalty.
 
-LEGAL AND CONSTITUTIONAL BARRIERS
+## LEGAL AND CONSTITUTIONAL BARRIERS
 
 The passing of the House Bill No. 4727 in the third and final reading in the House of Representatives is already tarnished with procedural defects which is highlighted in Sec. 26, Art VI, of the 1987 Constitution, which provides that: “No bill passed by either House shall become a law unless it has passed 3 readings on separate days, and printed copies thereof in its final form have been distributed to its Members 3 days before its passage, except when the President certifies to the necessity of its immediate enactment to meet a public calamity or emergency.”[7] According to the solon who staunchly rejected the passing of the death penalty bill, Rep. Edcel Lagman, the passing of the bill transgressed the three-day notice rule and that printed and physical copies of the draft be presented before the lawmakers as provided by the Constitution.
 
@@ -85,7 +85,7 @@ A synthesis between the two varying concepts of human rights as explained in the
 
 In such a case, the ICCPR acts a measure of both the State and individual on how to preserve itself by preventing the former from gravely abusing its power upon its own citizens so as to appease them and not to incite them to revolt that would endanger its very own existence, and by granting the latter avenues on how to assert its individual rights in the hands of tyrannical State. The ICCPR acts as a passive humanitarian intervention that would prevent the transgression of the principle of non-intervention by force since it is done with the consent of the State wherein it is free to adopt any kinds and types of mechanism that would still ensure that justice at the end of the day is served to the people, locally and internationally.
 
-SOCIOPOLITICAL RAMIFICATIONS
+## SOCIOPOLITICAL RAMIFICATIONS
 
 The question of death penalty not only revolves around its constitutionality but also on its sociopolitical ramifications toward the society. The adoption of such a gruesome method begs the question on whether it is feasible, beneficial, or even necessary. For one, the State has to acknowledge that first and foremost, the criminal justice system is deeply flawed. Critical factors ranges from the straying away from the veering trend of the application of criminal justice that hinges towards rehabilitation and reformation instead of being retributive and punitive, that in the end only results to further strife and detriment of the State instead of social justice; lack of State resources such as manpower with regard to public defenders, facilities and technology that would provide effectiveness and efficiency thus resulting to cost savings that could be better reallocated to rehabilitation subject to compliance with international standards and regulation for the humane treatment of detention prisoners, and courts that would streamline the speedy determination of cases; and the possible revamp of law enforcement in the Philippines that would be less oppressive against the impoverished and marginalized which will only polarize and create friction within classes.
 
@@ -119,17 +119,17 @@ Other approaches regarding the drug problem may also be applied by the governmen
 
 Applying this practice to the Philippine context should be however approached with caution as decriminalization and authentication of business to sell drugs may only increase the legal revenues earned by drug lords. In this case, only the treatment of drug users should be approached in a different manner by the law enforcement agencies. Absent the fact that such person is a drug peddler or trafficker, the one caught in possession of the drugs must be treated holistically and in the end be treated not as a criminal but as a person.
 
-RESPONSOBILITIES OF THE HEGEMON AND OF THE PEOPLE
+## RESPONSOBILITIES OF THE HEGEMON AND OF THE PEOPLE
 
 As a final plea, in recognizing the diversity of the Philippine culture, the society must enjoin the State from carrying out the death penalty bill by relying on the hegemons that carries heavy influence among the Filipinos. First and foremost, the victims of the war on drugs must speak out and protest, which are largely the poor. Almost all of the 7,000 victims of police brutality are targeted against the impoverished sector largely deprived of public service and goods, and living in the slums.[35] The bulwark of the Philippine society consists of the poor who are the victims against the war on drugs. They must be encouraged to denounce and cry foul over the policy of the State in carrying out Oplan Tokhang through peaceful means as prescribed in the Constitution.
 
 Likewise, religious institutions such as the Catholic Church, Islam, and Iglesia ni Cristo which are bastions of faith that eschews the importance and significance of life must take part in political activities that would engage its communities and followers to urge the State in the preservation of the right to life. In turn, academic institutions which are the most receptive to ideas and discourse must also engage on the political platform in order to enlighten people regarding the effects of the reinstatement of the death penalty law on their cities, communities, and families, all the more important are those academic institutions which are elite and must campaign on the grassroots. The society must educate and enlighten itself through political discourse wherein hopefully an intellectual revolution will take place that would be more beneficial for a formulation of a new system that would instead focus on social justice.
 
-CONCLUSION
+## CONCLUSION
 
 Applying justice in the strictest and retributive manner would only result to further corruption, curtailing the long-term goals of State in ensuring the welfare of the citizens since justice in this sense will not suffice. Justice should be seen as wholesome and compassionate that would unite the people and not sow discord. The ultimate act of justice is that it be treated with charity that sees all the fragments of the story and not only justice that condemns and seek retribution for what separates justice and justice with charity is the nailing of the Man/God on the chair/cross.
 
-BIBLIOGRAPHY
+## BIBLIOGRAPHY
 
 · Almendral, Aurora, “Rodrigo Duterte, Scorned Abroad, Remains Popular in the Philippines”, (New York Times, 13 October 2016)
 
@@ -183,40 +183,40 @@ BIBLIOGRAPHY
 
 · Vincent, R.J., “Human Rights and International Relations”, (Cambridge, Cambridge University Press, 1986)
 
-· Wells, Matt, “Philippines: Duterte’s ‘war on drugs’ is a war on the poor”, (Amnesty International, 04 February 2017)· Williams, Paul, “Treatment of Detainees: Examination of Issues Relevant to Detention by UNHCR”, (Geneva, Henry Dunant Institute, 1990) [1]
+· Wells, Matt, “Philippines: Duterte’s ‘war on drugs’ is a war on the poor”, (Amnesty International, 04 February 2017)· Williams, Paul, “Treatment of Detainees: Examination of Issues Relevant to Detention by UNHCR”, (Geneva, Henry Dunant Institute, 1990) 
 
-Roxas, Joseph, “Duterte’s ‘political will’ seen to inspire local government leaders”, (Quezon City, Rappler, 30 May 2016)
-[2] Almendral, Aurora, “Rodrigo Duterte, Scorned Abroad, Remains Popular in the Philippines”, (New York Times, 13 October 2016)
-[3] Maretti, Alberto, “Prisons and rehab overcrowding in the Philippines”, (Al Jazeera, 14 Dec 2016)
-[4] Francisco, Katerina, “First 100 days: Where are we on President Duterte’s promises?”, (Rappler, 08 October 2016)
-[5] Manalo, Kevin, “Catanduanes gov disowns ‘mega shabu lab,’ implicates NBI exec”, (ABS-CBN News, 07 December 2016)
-[6] Lopez, Virgil, “NBI says kidnapped South Korean is dead”, (GMA News, 17 January 2017)
-[7] CONST., Art. VI, Sec. 26
-[8] Cepeda, Mara, “3rd reading for death penalty bill on March 7 unconstitutional – House opposition”, (Rappler, 07 March 2017)
-[9] Ibid
-[10] Astorga v. Villegas, 56 SCRA 714 (1974)
-[11] Macias v. Commission on Elections, 3 SCRA 1 (1961)
-[12] Second Optional Protocol to the International Convention on Civil and Political Rights, 20 September 2006 (2007)
-[13] Avendano, Christine, “Senate nod needed to end treaty, says resolution”, (Philippine Daily Inquirer, 14 February 2017)
-[14] UN Human Rights Committee (HRC), CCPR General Comment No. 26: Continuity of Obligations, 8 December 1997, CCPR/C/21/Rev.1/Add.8/Rev.1,
-[15] GG Fitzmaurice, ‘Second Report on the Law of Treaties’ [1957] YBILC, vol II, 16, 22.
-[16] H. Waldock, ‘Second Report on the Law of Treaties’ [1963] YBILC, vol II, 36 (draft Art 17).
-[17] Vincent, R.J., “Human Rights and International Relations”, (Cambridge, Cambridge University Press, 1986)
-[18] Hicks, Steven, “International Law and the Possibility of a Just World Order”, (Amsterdam, Rodopi Press, 1999)
-[19] Forsythe, David, “The Internationalization of Human Rights”, (Massachusetts, Lexington Books, 1993)
-[20] Milne, A.J.N., “Human Rights and Human Diversity”, (London, Macmillan Publishing, 1986)
-[21] Moss, Jeremy, “The Later Foucault: Politics and Philosophy”, (London, SAGE Publications, 1998)
-[22] Vincent, R.J., “Human Rights and international Relations”, (Cambridge, Cambridge University Press, 1986)
-[23] Lao, Christine, “Retribution, Rehabilitation, and the Revised Penal Code: Juridical Discourse in the Carceral State”, (73 Philippine Law Journal 259, 1998)
-[24] Foucault, Michel, “Discipline and Punish: The Birth of the Prison”, (London, Vintage Books, 1995)
-[25] Ibid.
-[26] Department of Justice, Annual Report, 20-21, December 2010
-[27] Ibid.
-[28] Pamintuan, Ana Marie, “First, fix what’s broke”, (Philippine Star, 08 February 2017)
-[29] Williams, Paul, “Treatment of Detainees: Examination of Issues Relevant to Detention by UNHCR”, (Geneva, Henry Dunant Institute, 1990)
-[30] Bureau of Jail Management and Penology, Data and Statistics, 31 January 2017
-[31] People v. Mateo, 433 SCRA 640 (2004)
-[32] Gaviria, Cesar, “President Duterte Is Repeating My Mistakes”, (Bogota, New York Times, 07 February 2017)
-[33] Oakford, Samuel, “Portugal’s Example: What Happened After It Decriminalized All Drugs, From Weed to Heroin”, VICE News, 20 April 2016, https://news.vice.com/article/ungass-portugal-what-happened-after-decriminalization-drugs-weed-to-heroin
-[34] Global Commission on Drug Policy, “Advancing Drug Policy Reform: A New Approach to Decriminalization”, (2016)
+[1] Roxas, Joseph, “Duterte’s ‘political will’ seen to inspire local government leaders”, (Quezon City, Rappler, 30 May 2016) <br>
+[2] Almendral, Aurora, “Rodrigo Duterte, Scorned Abroad, Remains Popular in the Philippines”, (New York Times, 13 October 2016) <br>
+[3] Maretti, Alberto, “Prisons and rehab overcrowding in the Philippines”, (Al Jazeera, 14 Dec 2016) <br>
+[4] Francisco, Katerina, “First 100 days: Where are we on President Duterte’s promises?”, (Rappler, 08 October 2016) <br>
+[5] Manalo, Kevin, “Catanduanes gov disowns ‘mega shabu lab,’ implicates NBI exec”, (ABS-CBN News, 07 December 2016) <br>
+[6] Lopez, Virgil, “NBI says kidnapped South Korean is dead”, (GMA News, 17 January 2017) <br>
+[7] CONST., Art. VI, Sec. 26 <br>
+[8] Cepeda, Mara, “3rd reading for death penalty bill on March 7 unconstitutional – House opposition”, (Rappler, 07 March 2017) <br>
+[9] Ibid <br>
+[10] Astorga v. Villegas, 56 SCRA 714 (1974) <br>
+[11] Macias v. Commission on Elections, 3 SCRA 1 (1961) <br>
+[12] Second Optional Protocol to the International Convention on Civil and Political Rights, 20 September 2006 (2007) <br>
+[13] Avendano, Christine, “Senate nod needed to end treaty, says resolution”, (Philippine Daily Inquirer, 14 February 2017) <br>
+[14] UN Human Rights Committee (HRC), CCPR General Comment No. 26: Continuity of Obligations, 8 December 1997, CCPR/C/21/Rev.1/Add.8/Rev.1, <br>
+[15] GG Fitzmaurice, ‘Second Report on the Law of Treaties’ [1957] YBILC, vol II, 16, 22. <br>
+[16] H. Waldock, ‘Second Report on the Law of Treaties’ [1963] YBILC, vol II, 36 (draft Art 17). <br>
+[17] Vincent, R.J., “Human Rights and International Relations”, (Cambridge, Cambridge University Press, 1986) <br>
+[18] Hicks, Steven, “International Law and the Possibility of a Just World Order”, (Amsterdam, Rodopi Press, 1999) <br>
+[19] Forsythe, David, “The Internationalization of Human Rights”, (Massachusetts, Lexington Books, 1993) <br>
+[20] Milne, A.J.N., “Human Rights and Human Diversity”, (London, Macmillan Publishing, 1986) <br>
+[21] Moss, Jeremy, “The Later Foucault: Politics and Philosophy”, (London, SAGE Publications, 1998) <br>
+[22] Vincent, R.J., “Human Rights and international Relations”, (Cambridge, Cambridge University Press, 1986) <br>
+[23] Lao, Christine, “Retribution, Rehabilitation, and the Revised Penal Code: Juridical Discourse in the Carceral State”, (73 Philippine Law Journal 259, 1998) <br>
+[24] Foucault, Michel, “Discipline and Punish: The Birth of the Prison”, (London, Vintage Books, 1995) <br>
+[25] Ibid. <br>
+[26] Department of Justice, Annual Report, 20-21, December 2010 <br>
+[27] Ibid. <br>
+[28] Pamintuan, Ana Marie, “First, fix what’s broke”, (Philippine Star, 08 February 2017) <br>
+[29] Williams, Paul, “Treatment of Detainees: Examination of Issues Relevant to Detention by UNHCR”, (Geneva, Henry Dunant Institute, 1990) <br>
+[30] Bureau of Jail Management and Penology, Data and Statistics, 31 January 2017 <br>
+[31] People v. Mateo, 433 SCRA 640 (2004) <br>
+[32] Gaviria, Cesar, “President Duterte Is Repeating My Mistakes”, (Bogota, New York Times, 07 February 2017) <br>
+[33] Oakford, Samuel, “Portugal’s Example: What Happened After It Decriminalized All Drugs, From Weed to Heroin”, VICE News, 20 April 2016, https://news.vice.com/article/ungass-portugal-what-happened-after-decriminalization-drugs-weed-to-heroin <br>
+[34] Global Commission on Drug Policy, “Advancing Drug Policy Reform: A New Approach to Decriminalization”, (2016) <br>
 [35] Wells, Matt, “Philippines: Duterte’s ‘war on drugs’ is a war on the poor”, (Amnesty International, 04 February 2017)
