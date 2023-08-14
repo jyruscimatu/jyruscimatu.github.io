@@ -6,9 +6,10 @@ subtitle: My academic & professional backgound
 
 <a href="/assets/pdf/Cimatu_Jyrus_CV.pdf" title="Download" download>Download CV</a>
 
-
+<br>
 ## Professional Licensure Eligibility
-Philippine Bar Examination (R.A. No. 1080) _taken on February 2022_ (Inducted 17 May 2022) 
+Philippine Bar Examination (R.A. No. 1080) _taken on February 2022_ <br>
+(Inducted 17 May 2022) 
 
 ## Education
 
@@ -57,6 +58,7 @@ Technical Skills: _Technical writing with focus on critical analysis of legal fr
 
 Communication: _Fluent in English and Filipino (Tagalog)_
 
+
 ## Publications
 
 Cimatu, Jyrus. (May 2022). “Ang Batas at Balai (The Law and the Home): Establishing the Right to the City as a Path Towards Liberty and Sustainable Prosperity” - {Finalist} - Foundation for Liberty and Prosperity Dissertation Contest and UST Law Review Vol. LXVI.
@@ -66,3 +68,21 @@ Cimatu, Jyrus. (forthcoming). "Platforms, Private International Law, and Progres
 Cimatu, Jyrus. (forthcoming). “Neoliberalization of Spaces in the Philippines: Promises and Perils of Sustainable Development", Law and Society Association, Lisbon, Portugal. (presented on 14 July 2022 at ISCTE – Instituto Universitário de Lisboa)
 
 Cimatu, Jyrus. (22 April 2020). "Bayanihan To Heal As One Act: Weaponisation against Covid-19 or the People?", Strengthening Human Rights and Peace Research and Education in Southeast Asia (SHAPE-SEA)
+
+
+## Memberships and Affiliations
+
+- Law and Society Association, Massachusetts, United States
+Member (January 2022 --- Present)
+
+- Foundation for Liberty and Prosperity, Manila, Philippines
+Fellow Scholar (April 2021 --- Present)
+
+- Institute for Internet and the Just Society, Berlin, Germany
+Content Contributor (July 2020 --- Present)
+
+- Asian Law Students Association, Jakarta, Indonesia
+Senior Editor (Nov 2020 --- Nov 2021)
+
+- UST Law Review, Manila, Philippines
+Research Editor – St. Dominic De Guzman Awardee (June 2016 --- June 2022)
