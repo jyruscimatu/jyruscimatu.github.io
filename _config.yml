@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Atty. Jyrus Cimatu
 
 # Your name to show in the footer
 author: Atty. Jyrus Cimatu, J.D.
@@ -20,11 +20,8 @@ author: Atty. Jyrus Cimatu, J.D.
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "jyruscimatu"
+  CV: "cv"
 
 ################
 # --- Logo --- #
@@ -51,15 +48,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jyrusbcimatu@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: jyruscimatu
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jyrus-cimatu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
