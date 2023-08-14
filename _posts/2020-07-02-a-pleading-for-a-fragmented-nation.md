@@ -12,7 +12,7 @@ comments: true
 
 _Originally submitted as an assignment during my understudy program under the UST Law Review, the official law journal publication of the University of Santo Tomas – Faculty of Civil Law._
 
-<img src="/assets/img/war_on_drugs.jpg" alt="Jyrus" width="300" height="auto" style="display: block; margin: 0 auto;">
+<img src="/assets/img/war_on_drugs.jpg" alt="Jyrus" width="500" height="auto" style="display: block; margin: 0 auto;">
 Photo by Raffy Lerma, Philippine Daily Inquirer
 
 “L’amour est injustice, mais la justice ne suffit pas.”
