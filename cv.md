@@ -4,7 +4,11 @@ title: CV
 subtitle: My academic & professional backgound
 ---
 
-<a href="/assets/pdf/Curriculum_Vitae_Cimatu.pdf" title="Download" download>Download CV</a>
+<a href="/assets/pdf/Cimatu_Jyrus_CV.pdf" title="Download" download>Download CV</a>
+
+
+## Professional Licensure Eligibility
+Philippine Bar Examination (R.A. No. 1080) _taken on February 2022_ (Inducted 17 May 2022) 
 
 ## Education
 
