@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adelle's CV
+title: CV
 subtitle: My academic & professional backgound
 ---
 
