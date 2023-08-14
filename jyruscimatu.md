@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Atty. Jyrus B. Cimatu, J.D.
+subtitle: Atty. Jyrus Buban Cimatu, J.D.
 cover-img: 
 ---
 
