@@ -22,10 +22,14 @@ University of Santo Tomas - Manila, Philippines (June 2012 --- June 2016)
 ## Professional Experience
 
 - Attorney III <br>
-Department of the Interior and Local Government, Legal and Legislative Liaison Service, Government of the Philippines (August 2022 --- present)
+Department of the Interior and Local Government (August 2022 --- present) <br>
+Legal and Legislative Liaison Service Division <br>
+Government of the Philippines 
 
 - Counsel <br>
-Department of Transportation - Automatic Fare Collection Service, Government of the Philippines (October 2021 --- June 2023)
+Department of Transportation (October 2021 --- June 2023) <br>
+Automatic Fare Collection Service Division <br>
+Government of the Philippines 
 
 - Legal Officer <br>
 Urbano Law (February 2021 --- December 2021)
@@ -37,7 +41,9 @@ Initiatives for Dialogue and Empowerment Through Alternative Legal Services (IDE
 Co – Pua Law (March 2020 --- July 2020)
 
 - Legal Assistant II <br>
-Commission on Human Rights -- Human Rights Victims' Board (July 2017 --- December 2017)
+Commission on Human Rights (July 2017 --- December 2017) <br>
+Human Rights Victims' Board <br>
+Government of the Philippines
 
 - Technical Assistant <br>
 CBR Environmental Consulting Services (August 2014 --- June 2016)
@@ -47,7 +53,7 @@ CBR Environmental Consulting Services (August 2014 --- June 2016)
 
 MS Office Tools: _Word, Power Point, Excel_
 
-Technical Skills: _Technical writing with focus on critical analysis of legal frameworks <br> Drafting and writing of pleadings, motions, and pertinent legal documents <br> and/or other court or administrative correspondence_
+Technical Skills: _Technical writing with focus on critical analysis of legal frameworks; <br> Drafting and writing of pleadings, motions, and pertinent legal documents <br> and/or other court or administrative correspondence_
 
 Communication: _Fluent in English and Filipino (Tagalog)_
 
